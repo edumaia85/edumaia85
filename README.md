@@ -3,12 +3,14 @@
 - 👯 I’m looking to collaborate on web projects
 - 🌱 I’m currently learning C# and Next.js
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=edumaia85&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edumaia85&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
+</div>
 
 ## My tech stack
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" /></code>
