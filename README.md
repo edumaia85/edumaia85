@@ -1,27 +1,21 @@
-### Hi there, I'm Eduardo 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/>
 
-- 🔭 I’m currently studying Information Systems at IFMG SJE
-- 👯 I’m looking to collaborate on web projects
-- 🌱 I’m currently learning C# and Next.js
 
-<div>
-  <a href="https://github.com/edumaia85">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=edumaia85&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumaia85&layout=compact&langs_count=7&theme=radical"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=BD93F9&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hello,+my+name+is+Eduardo+Maia;)](https://git.io/typing-svg)
+
+<div align="center">
+<h2>📈 Github Statistics 📉</h2>
+  <a href="https://github.com/vhraposo">
+    
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=edumaia85&show_icons=true&theme=radical" /> 
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumaia85&layout=compact&hide_border=true&theme=radical" />
 </div>
 
-## My tech stack 💬
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" width="40" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="40" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" width="40" /></code>
+<div align="center">
+<h2>⚜ My Skills ⚜</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nodejs,cs,dotnet,mysql,vscode,visualstudio)](#)
+
 
 ## Socials
 
