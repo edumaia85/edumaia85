@@ -5,7 +5,7 @@
 
 <div align="center">
 <h2>📈 Github Statistics 📉</h2>
-  <a href="https://github.com/vhraposo">
+  <a href="https://github.com/edumaia85">
     
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=edumaia85&show_icons=true&theme=radical" /> 
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumaia85&layout=compact&hide_border=true&theme=radical" />
