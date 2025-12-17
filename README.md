@@ -14,7 +14,7 @@
 <div align="center">
 <h2>⚜ My Skills ⚜</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,mysql,vscode)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,dotnet,cs,mysql,postgresql,visualstudio,vscode)](#)
 
 
 ## Socials
